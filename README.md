@@ -14,9 +14,9 @@ The structure of my dataset:
 <pre>
 src/
 ├── people_folderA
-│ �?├── img1.jpg
-│ �?├── img2.jpg
-│ �?├── imgN.jpg
+│        ├── img1.jpg
+│        ├── img2.jpg
+│        ├── imgN.jpg
 └── people_folderB
 </pre>
 
@@ -38,4 +38,5 @@ src/
 ./dest/2/008.jpg,65,66,195,196
 ./dest/2/009.jpg,44,62,200,217
 ```
+
 
