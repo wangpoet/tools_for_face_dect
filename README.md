@@ -26,7 +26,6 @@ src/
 #### crop_the_face.py
 	python crop_the_face.py
 
-
 #### result:
     In the dect_folder , you will find the picture after croping,and  list contains the location information of the human face,see below.
 
@@ -39,4 +38,6 @@ src/
 ./dest/2/009.jpg,44,62,200,217
 ```
 
-
+you can download :
+link: https://pan.baidu.com/s/1kU7vt9l
+secet: cpyf
